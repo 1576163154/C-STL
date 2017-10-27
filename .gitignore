@@ -1,0 +1,25 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/priority queue/16.4/Debug
+/priority queue/16.6/Debug
+/priority queue/bitSet/Debug
+/priority queue/cElevenThread/Debug
+/priority queue/ClassTemplate/Debug
+/priority queue/Debug
+/priority queue/multimap/Debug
+/priority queue/priority queue/Debug
+*.suo
+*.vcxproj
+*.filters
+/priority queue/strchr/Debug
+/priority queue/StringOP/Debug/StringOP.tlog
+*.log
+*.obj
+*.idb
+*.pdb
+*.tlog
+*.sln
+*.db
+*.opendb
